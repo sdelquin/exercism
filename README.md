@@ -1,3 +1,3 @@
-# exercism.io
+# exercism
 
-My programming exercises on exercism.io
+My programming exercises at [exercism.io](http://exercism.io)
