@@ -9,6 +9,7 @@ name = "pypi"
 "flake8" = "*"
 yapf = "*"
 pytest = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.7"
