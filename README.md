@@ -1,3 +1,3 @@
 # exercism.io
 
-My exercises on exercism.io
+My programming exercises on exercism.io
